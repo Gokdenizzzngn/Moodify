@@ -4,7 +4,7 @@
 Bu proje, Machine Learning Bootcamp kapsamında geliştirilmiştir. Kullanıcının seçtiği şarkının ses özelliklerini (acousticness, danceability, energy vb.) analiz ederek, ona matematiksel olarak en yakın şarkıları öneren bir "Content-Based Filtering" sistemidir.
 
 ## 🚀 Canlı Demo
-Projenin çalışan halini buradan deneyebilirsiniz: [BURAYA_DEPLOY_LİNKİ_GELECEK]
+Projenin çalışan halini buradan deneyebilirsiniz: [BURAYA_DEPLOY_LİNKİ_GELECEK] (gelemedi..)
 
 ## 📂 Veri Seti ve Yöntem
 * **Veri Kaynağı:**  [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
