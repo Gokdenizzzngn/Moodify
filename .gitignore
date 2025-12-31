@@ -1,0 +1,16 @@
+# Python gereksiz dosyaları
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sanal ortam
+venv/
+env/
+.env
+
+# BÜYÜK MODEL DOSYALARI (Bunları GitHub'a gönderme!)
+models/
+*.pkl
+
+# GÜVENLİK İÇİN BU DOSYAYI GİZLE:
+upload_models.py

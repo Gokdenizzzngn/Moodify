@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+gdown==4.7.1
+huggingface-hub
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+>>>>>>> 525ca7a09fa338e028b64bb0878d8813adbc9cdd
